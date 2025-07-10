@@ -67,7 +67,7 @@ graph TD;
 **关于麒麟工作室**  
 麒麟工作室**Logo展示**
 
-![麒麟工作室](./Kirin_Studio_2.0.jpg)
+![麒麟工作室](Kirin%20Studio%202.0.jpg)
 
 [加入我们](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=nTvOzDs1o3V-tjvw_bHtMjY_30ekiKzO&authKey=8zGD%2F2iIRsqDzGMf5fjUaGX3CLr%2Bm9WwkmunEXjl5N%2B9sBzWosRKpFICYfOeufb8&noverify=0&group_code=1012978209)
 
